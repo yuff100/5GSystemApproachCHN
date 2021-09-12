@@ -2,13 +2,18 @@
 本书的Github仓库<sup>[1]</sup>提供了*5G移动网络:一种系统方法*的源代码，遵循知识共享协议(CC BY-NC-ND 4.0)<sup>[2]</sup>许可条款。我们邀请社区一起在相同的条件下更正、改进、更新本书以及为本书提供新的素材。
 
 如果你打算使用本书内容，请保留以下信息:
+
 *Title: 5G Mobile Networks: A Systems Approach*
+
 *Authors: Larry Peterson and Oguz Sunay*
+
 *Source:* https://github.com/SystemsApproach/5G
+
 *License:* CC BY-NC-ND 4.0<sup>[2]</sup>
 
+
 # 阅读本书
-本书是系统方法系列<sup>[3]</sup>的一部分，在线版本在https://5G.systemsapproach.org上发布。
+本书是系统方法系列<sup>[3]</sup>的一部分，在线版本在 https://5G.systemsapproach.org 上发布。
 
 要跟踪项目进展并收到关于新版本的通知，可以在Facebook<sup>[4]</sup>和Twitter<sup>[5]</sup>上跟踪项目。要跟踪关于互联网如何发展的讨论，请在Substack上订阅系统方法<sup>[6]</sup>。
 
