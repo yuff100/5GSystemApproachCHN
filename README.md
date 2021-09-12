@@ -34,10 +34,17 @@ $ git clone https://github.com/SystemsApproach/5G.git
 
 > **Reference:**
 > [1] https://github.com/SystemsApproach/5G
+> 
 > [2] https://creativecommons.org/licenses/by-nc-nd/4.0
+> 
 > [3] https://www.systemsapproach.org/
+> 
 > [4] https://www.facebook.com/Computer-Networks-A-Systems-Approach-110933578952503/
+> 
 > [5] https://twitter.com/SystemsAppr
+> 
 > [6] https://systemsapproach.substack.com/
+> 
 > [7] https://opensource.guide/how-to-contribute/
+> 
 > [8] https://github.com/SystemsApproach/5G/wiki
